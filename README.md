@@ -1,9 +1,9 @@
 # TakeHomeCodingChallenge
 Matching asset portfolio to benchmarks
 
-Programming Challenge Description:
+# Programming Challenge Description:
 We say a portfolio matches the benchmark when the market value percentage of each asset in the portfolio matches the market value percentage of each asset in the benchmark. Your challenge is to write a program that determines the transactions necessary to make a portfolio match a benchmark, assuming the total market value of the portfolio stays the same.
-Background
+# Background
 A portfolio is a collection of assets such as stocks and bonds. A portfolio could have 10 shares of Vodafone stock, 15 shares of Google stock and 15 shares of Microsoft bonds.
 A benchmark is also just a collection of assets. A benchmark could have 15 shares of Vodafone stock, 10 shares of Google stock and 15 shares of Microsoft bonds.
 The market value of a stock is 
